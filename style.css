@@ -27,10 +27,12 @@ background-color: #3C2553;
 }
 
 .desc {
-margin-bottom: 10px;
+margin-top: 100%;
+margin-bottom: 0px;
 line-height: 18px;
 color: white;
 font-weight: bold;
+width: 30%;
 }
 
 button {
